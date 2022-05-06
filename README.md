@@ -33,7 +33,7 @@ atoms=hoge`
 2 Calculated the FELs on the MSM constructions  
 &nbsp;　2-0 Select initial structures for independently performed multiple long-time (5-ns) MD simulations from various configurations sampled by the aMD-GERBIL `clustering_with_PCA.ipynb`  
 &nbsp;　2-1 Performed multiple long-time (5-ns) MD simulations `run_cluster.sh $num_of_candidates`  
-&nbsp;　2-3 MSMs were constructed using the trajectories of the production MD runs the following scripts①`Get_cluster_PCA.ipynb`,②`cluster_MSM.ipynb`  
+&nbsp;　2-3 MSMs were constructed using the trajectories of the production MD runs the following scripts `Get_cluster_PCA.ipynb` `cluster_MSM.ipynb`  
 
 ## Install
 Launch run_gerbil.sh and load input files. 
