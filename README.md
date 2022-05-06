@@ -2,7 +2,7 @@
 ====
 
 ## Overview
-G-factor-based external bias limiter (GERBIL) is a scheme for regulating biased sampling
+G-factor-based external bias limiter (GERBIL) is a scheme for regulating biased sampling  
 ![overview](Image/TOC.pdf)
 
 ## Description
