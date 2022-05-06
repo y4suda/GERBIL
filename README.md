@@ -34,4 +34,7 @@ atoms=hoge`
 Launch run_gerbil.sh and load input files. 
 
 ## Author 
+Takunori Yasuda, Rikuri Morita, Yasuteru Shigeta, Ryuhei Harada.  
+Center for Computational Sciences, University of Tsukuba  
+takunoriyasuda@gmail.com
 
