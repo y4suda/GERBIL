@@ -15,7 +15,9 @@ To regulate biased sampling a well-established structural indicator (the G-facto
 ・numpy (1.19.1)　
 
 ## Usage
-'ghq' get [-u] [-p] (<repository URL> | <user>/<project> | <project>)
+0 input preparation  
+
+
 
 ## Install
 
