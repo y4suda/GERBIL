@@ -31,6 +31,7 @@ atoms=hoge`
 &nbsp;`./run_gerbil.sh thresh_ini thresh_delta b_min b_max candi total_calculation_time(ns) ` 
 
 ## Install
+Launch run_gerbil.sh and load input files. 
 
 ## Author 
 
