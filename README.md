@@ -19,7 +19,7 @@ To regulate biased sampling a well-established structural indicator (the G-facto
 0 Preparation  
 &nbsp;　0-1 File preparation:Put initial conformation(hoge.pdb) and parmeter file(hoge.prmtop) on ./gerbil_main/input/  
 &nbsp;　0-2 Input parmeteres:write the number of residues and total number of atoms at the head of run_candi.sh  
-`res_num=hoge  
+&nbsp;`res_num=hoge  
 name=hoge  
 atoms=hoge`  
 &nbsp;  
