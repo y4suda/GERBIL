@@ -18,7 +18,7 @@ To regulate biased sampling a well-established structural indicator (the G-facto
 ・numpy (1.19.1)　 
 
 ## Environment 
-・qsub
+・These scripts are written as premises for multi-node computers with the queuing systems (qsub).  
 
 ## Usage
 0 Preparation  
