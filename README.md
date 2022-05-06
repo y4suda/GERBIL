@@ -24,7 +24,7 @@ name=hoge
 atoms=hoge`  
 &nbsp;  
 1 Conduct GERBIL  
-
+&nbsp;`./run_gerbil.sh thresh_ini thresh_delta b_min b_max candi total_calculation_time(ns) ` 
 
 ## Install
 
