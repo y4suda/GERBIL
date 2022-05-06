@@ -12,7 +12,7 @@ To regulate biased sampling a well-established structural indicator (the G-facto
 ・Amber tools  
 ・Python 3.x (3.7.8)  
 ・matplotlib (3.3.1)  
-・pyEMMA (2.5.7)　　
+・pyEMMA (2.5.7)　　 
 ・numpy (1.19.1)　
 
 ## Usage
