@@ -17,7 +17,7 @@ To regulate biased sampling a well-established structural indicator (the G-facto
 
 ## Usage
 0 input preparation  
- 0-1 
+&nbsp　0-1 
 
 
 ## Install
