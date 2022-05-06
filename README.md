@@ -15,6 +15,9 @@ To regulate biased sampling a well-established structural indicator (the G-facto
 ・pyEMMA (2.5.7)  
 ・numpy (1.19.1)　
 
+## Environment 
+・qsub
+
 ## Usage
 0 Preparation  
 &nbsp;　0-1 File preparation:Put initial conformation(hoge.pdb) and parmeter file(hoge.prmtop) on ./gerbil_main/input/  
@@ -28,4 +31,5 @@ atoms=hoge`
 
 ## Install
 
-## Contribution
+## Author 
+
