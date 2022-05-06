@@ -1,3 +1,4 @@
+# G-factor-based external bias limiter (GERBIL)
 ====
 
 ## Overview
@@ -15,7 +16,7 @@ To regulate biased sampling a well-established structural indicator (the G-facto
 ・numpy (1.19.1)　
 
 ## Usage
-# 0 input preparation  
+0 input preparation  
 
 
 
