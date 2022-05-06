@@ -16,8 +16,8 @@ To regulate biased sampling a well-established structural indicator (the G-facto
 ・numpy (1.19.1)　
 
 ## Usage
-0 input preparation  
-&nbsp;　0-1 
+0 Preparation  
+&nbsp;　0-1 put initial conformation(*.pdb) and parmeter file(*.prmtop) on ./gerbil_main/input/
 
 
 ## Install
