@@ -30,6 +30,7 @@ atoms=hoge`
 &nbsp;  
 1 Conduct GERBIL  
 &nbsp;`./run_gerbil.sh thresh_ini thresh_delta b_min b_max candi total_calculation_time(ns) `  
+&nbsp;  
 2 Calculated the FELs on the MSM constructions  
 &nbsp;　2-0 Select initial structures for independently performed multiple long-time (5-ns) MD simulations from various configurations sampled by the aMD-GERBIL `clustering_with_PCA.ipynb`  
 &nbsp;　2-1 Performed multiple long-time (5-ns) MD simulations `run_cluster.sh $num_of_candidates`  
