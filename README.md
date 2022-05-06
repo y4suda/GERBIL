@@ -12,7 +12,7 @@ To regulate biased sampling a well-established structural indicator (the G-facto
 ・NAMD 3.0 package  
 ・Amber tools  
 ・Python 3.x (3.7.8) 
-・MDAnalysis (2.1.0)
+・MDAnalysis (2.1.0)  
 ・matplotlib (3.3.1)  
 ・pyEMMA (2.5.7)  
 ・numpy (1.19.1)　 
