@@ -17,8 +17,8 @@ To regulate biased sampling a well-established structural indicator (the G-facto
 
 ## Usage
 0 Preparation  
-&nbsp;　0-1 put initial conformation(*.pdb) and parmeter file(*.prmtop) on ./gerbil_main/input/
-
+&nbsp;　0-1 file preparation:Put initial conformation(*.pdb) and parmeter file(*.prmtop) on ./gerbil_main/input/
+&nbsp;　0-2 
 
 ## Install
 
